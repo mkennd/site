@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Posts</title>
+        <link>https://blog.kennard.uk/</link>
+        <description>Posts from Posts</description>
+        <lastBuildDate>2025-06-30T08:49:48.554Z</lastBuildDate>
+        <generator>Postalgic</generator>
+        <docs>https://www.rssboard.org/rss-specification</docs>
+        <managingEditor>Matthew</managingEditor>
+        
+        <item>
+            <title>I&#39;m trying out Postalgic, a one time payment iOS...</title>
+            <link>https://blog.kennard.uk/2025/06/30/i-m-trying-out-postalgic-a-one-time-payment-ios/</link>
+            <description><![CDATA[<p>I'm trying out Postalgic, a one time payment iOS static site generator for blogging. Pushing to GitHub pages. Let's give this a go!</p>]]></description>
+            <pubDate>2025-06-30T08:28:03.273Z</pubDate>
+            <guid isPermaLink="true">https://blog.kennard.uk/2025/06/30/i-m-trying-out-postalgic-a-one-time-payment-ios/</guid>
+        </item>
+    </channel>
+</rss>
